@@ -12,6 +12,13 @@ mongodb+srv://admin:138LI*Fu**@cluster0.vaqx4.mongodb.net/?retryWrites=true&w=ma
 
 # create a js file
 node index.js 
+# git
+(if you  CREATE AN EMPTY REPO.. from your local directory)
+- git init
+- git commit -m  ' '
+- git remote add origin git@github.com:wwachira/node_quickstart.git
+- git push --set-upstream origin main
+
 
 ├── index.js
 ├── node_modules
